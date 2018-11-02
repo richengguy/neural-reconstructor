@@ -1,0 +1,10 @@
+name: neural-reconstructor
+channels:
+  - pytorch
+dependencies:
+  - pytorch
+  - torchvision
+  - tqdm
+  - matplotlib
+  - ipython
+  - jupyter
